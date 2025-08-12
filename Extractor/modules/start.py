@@ -20,6 +20,8 @@ from Extractor.modules.careerwill import career_will
 from Extractor.modules.utk import handle_utk_logic
 from Extractor.modules.mypathshala import my_pathshala_login
 from Extractor.modules.khan import khan_login
+from Extractor.modules.vision import scrape_vision_ias
+from Extractor.modules.ak import ak_start
 from Extractor.modules.kdlive import kdlive
 from Extractor.modules.iq import handle_iq_logic
 from Extractor.modules.getappxotp import send_otpp
@@ -85,6 +87,11 @@ button1 = [
                     InlineKeyboardButton("🙋‍♂️ Kʜᴀɴ Gs", callback_data="khan_"),   
                     InlineKeyboardButton("🎉 Pʜʏsɪᴄs Wᴀʟʟᴀʜ", callback_data="pw_")    
                 ],
+                [
+                    InlineKeyboardButton("👑 A.K", callback_data="ak_"),
+                    InlineKeyboardButton("👑 Vɪsɪᴏɴ Iᴀs", callback_data="vision_ias_")
+                ],
+                        
                 [
                     InlineKeyboardButton("🤖 Sᴛᴜᴅʏ IQ", callback_data="iq_"),
                     InlineKeyboardButton("🌝 Kᴅ Cᴀᴍᴘᴜs", callback_data="kdlive_")         
