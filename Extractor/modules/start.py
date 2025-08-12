@@ -20,7 +20,6 @@ from Extractor.modules.careerwill import career_will
 from Extractor.modules.utk import handle_utk_logic
 from Extractor.modules.mypathshala import my_pathshala_login
 from Extractor.modules.khan import khan_login
-from Extractor.modules.vision import scrape_vision_ias
 from Extractor.modules.kdlive import kdlive
 from Extractor.modules.iq import handle_iq_logic
 from Extractor.modules.getappxotp import send_otpp
