@@ -76,25 +76,42 @@ custom_button = [[
 
 button1 = [              
                 [
+                    InlineKeyboardButton("💠 STRANGER ✅️", callback_data="https://i.ibb.co/ccV44ZRS/STRANGER-BOY.jpg")
+                ],
+                [
                     InlineKeyboardButton("💠 Aᴘᴘx", callback_data="appx_"),
                     InlineKeyboardButton("🌐 Aᴘᴘx Oᴛᴘ", callback_data="appxotp_")
+                ],
+                [
+                    InlineKeyboardButton("💠 STRANGER ✅️", callback_data="https://i.ibb.co/9m20Ys7k/photo-2025-06-22-13-16-36-7518790252551471136.jpg")
                 ],
                 [
                     InlineKeyboardButton("🎀 CʟᴀssPʟᴜs", callback_data="classplus_"),
                     InlineKeyboardButton("🌠 Aᴅᴅᴀ 𝟸𝟺𝟽", callback_data="adda_")
                 ],
                 [
+                    InlineKeyboardButton("💠 STRANGER ✅️", callback_data="https://i.ibb.co/Swd0WDW9/photo-2025-05-09-20-09-39-7502540716233457668.jpg")
+                ],
+                [
                     InlineKeyboardButton("🙋‍♂️ Kʜᴀɴ Gs", callback_data="khan_"),   
                     InlineKeyboardButton("🎉 Pʜʏsɪᴄs Wᴀʟʟᴀʜ", callback_data="pw_")    
+                ],
+                [
+                    InlineKeyboardButton(" 🌝 THE BOYS 🦋", callback_data="https://i.ibb.co/DgRpQhw6/photo-2025-04-30-11-42-22-7499070258104238100.jpg")
                 ],
                 [
                     InlineKeyboardButton("👑 A.K", callback_data="ak_"),
                     InlineKeyboardButton("👑 Vɪsɪᴏɴ Iᴀs", callback_data="vision_ias_")
                 ],
-                        
+                [
+                    InlineKeyboardButton("📱 समय यात्रि 🎉", callback_data="https://i.ibb.co/dwc7VnGQ/photo-2025-04-17-12-32-29-7494259035739258904.jpg")
+                ],
                 [
                     InlineKeyboardButton("🤖 Sᴛᴜᴅʏ IQ", callback_data="iq_"),
                     InlineKeyboardButton("🌝 Kᴅ Cᴀᴍᴘᴜs", callback_data="kdlive_")         
+                ],
+                [
+                    InlineKeyboardButton("💠 EXTRACTION ✅️", callback_data="https://ibb.co/1kYC2n0")
                 ],
                 [
                     InlineKeyboardButton("🪐 Cᴀʀᴇᴇʀᴡɪʟʟ", callback_data="cw_"),   
