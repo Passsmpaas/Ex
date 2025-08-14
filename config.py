@@ -10,8 +10,8 @@ API_HASH = os.environ.get("API_HASH","511be78079ed5d4bd4c967bc7b5ee023")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "[『 𝐌𝐑𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑™ 』](None)")
-BOT_TEXT = "❖────[『 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐑𝐎🇮🇳 』]────❖\n\n[𝐄𝐗𝐓𝐑𝐀𝐂𝐓𝐎𝐑 BY 𝐌𝐑𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑™ ]\n\n ★ Extention ➤ ᴍʀꜱᴛʀᴀɴɢᴇʀ™🦠\n\n❖─────[『 ᴍʀꜱᴛʀᴀɴɢᴇʀ™ 』]────❖"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "[ 𝐌𝐑𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑™ ](None)")
+BOT_TEXT = "❖────[ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐑𝐎🇮🇳 ]────❖\n\n[𝐄𝐗𝐓𝐑𝐀𝐂𝐓𝐎𝐑 BY 𝐌𝐑𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑™ ]\n\n ★ Extention ➤ ᴍʀꜱᴛʀᴀɴɢᴇʀ™\n\n❖─────[ ᴍʀꜱᴛʀᴀɴɢᴇʀ™ ]────❖"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "7678862761"))
 # ------------------------------------------------
@@ -31,7 +31,7 @@ UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "@shdkbot" #without
+ADMIN_BOT_USERNAME = "" #without
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://i.ibb.co/fzffLkQs/Screenshot-2024-08-27-at-11-02-49-AM.png")
 
