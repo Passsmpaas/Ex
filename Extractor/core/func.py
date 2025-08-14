@@ -38,7 +38,7 @@ async def subscribe(app, message):
             try:
                 url = await gen_link(app, update_channel)
                 await message.reply_photo(
-                    photo="https://i.ibb.co/9m20Ys7k/photo-2025-06-22-13-16-36-7518790252551471136.jpg",
+                    photo="https://i.ibb.co/fzffLkQs/Screenshot-2024-08-27-at-11-02-49-AM.png",
                     caption=script.FORCE_MSG.format(message.from_user.mention), 
                     reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🤖 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ 🤖", url=f"{url}")]])
                 )
