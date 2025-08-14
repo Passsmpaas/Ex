@@ -7,34 +7,34 @@ from config import ADMIN_BOT_USERNAME
 START_TXT = """
 **ʜᴇʟʟᴏ** {},
 
-**<blockquote>❖──[『 WELCOME STRANGER 』](https://i.ibb.co/9m20Ys7k/photo-2025-06-22-13-16-36-7518790252551471136.jpg)────❖\n ɪ'ᴍ ᴀᴅᴇᴘᴛ ᴀᴛ ᴇxᴛʀᴀᴄᴛɪɴɢ ᴏɴʟɪɴᴇ ᴄᴏᴜʀsᴇs ᴡɪᴛʜ ᴄᴜᴛᴛɪɴɢ-ᴇᴅɢᴇ ᴛᴇᴄʜɴᴏʟᴏɢʏ. ɪ'ᴠᴇ ᴍᴀɴᴀɢᴇᴅ ᴛᴏ ɢᴀᴛʜᴇʀ ʟɪɴᴋs ғᴏʀ ᴀʟᴍᴏsᴛ ᴀʟʟ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴜʀsᴇs, ᴍᴀᴋɪɴɢ ᴛʜᴇ ᴘʀᴏᴄᴇss ᴇғғᴏʀᴛʟᴇss ᴀɴᴅ ᴇғғɪᴄɪᴇɴᴛ.</blockquote>**
+**<blockquote>❖──[『 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐌𝐑𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑™ 』](https://i.ibb.co/9m20Ys7k/photo-2025-06-22-13-16-36-7518790252551471136.jpg)────❖\n ɪ'ᴍ ᴀᴅᴇᴘᴛ ᴀᴛ ᴇxᴛʀᴀᴄᴛɪɴɢ ᴏɴʟɪɴᴇ ᴄᴏᴜʀsᴇs ᴡɪᴛʜ ᴄᴜᴛᴛɪɴɢ-ᴇᴅɢᴇ ᴛᴇᴄʜɴᴏʟᴏɢʏ. ɪ'ᴠᴇ ᴍᴀɴᴀɢᴇᴅ ᴛᴏ ɢᴀᴛʜᴇʀ ʟɪɴᴋs ғᴏʀ ᴀʟᴍᴏsᴛ ᴀʟʟ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴜʀsᴇs, ᴍᴀᴋɪɴɢ ᴛʜᴇ ᴘʀᴏᴄᴇss ᴇғғᴏʀᴛʟᴇss ᴀɴᴅ ᴇғғɪᴄɪᴇɴᴛ.</blockquote>**
 
-**<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/+y2CPW9niqs0wMzI1">Aᴅᴍɪɴ 🫠</a></blockquote>**
+**<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/+DwHJpKUuQyo3OWY1">Aᴅᴍɪɴ 🫠</a></blockquote>**
 """
 
 FORCE_MSG = """
 **ʜᴇʏ** {}
 
-**<blockquote>❖───── [『 Stranger 』](https://i.ibb.co/ZRvCxd5g/STRANGER-BOY.jpg) ────❖\n\nᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !</blockquote>**
+**<blockquote>❖───── [『 ᴍʀꜱᴛʀᴀɴɢᴇʀ™ 』](https://i.ibb.co/ZRvCxd5g/STRANGER-BOY.jpg) ────❖\n\nᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !</blockquote>**
 
-**<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/+y2CPW9niqs0wMzI1">Aᴅᴍɪɴ 🫠</a></blockquote>**
+**<blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/+DwHJpKUuQyo3OWY1">Aᴅᴍɪɴ 🫠</a></blockquote>**
 """
 
 MODES_TXT = """
-**<blockquote>❖──────[『 स्ट्रेंजर 』](https://i.ibb.co/DgRpQhw6/photo-2025-04-30-11-42-22-7499070258104238100.jpg)─────❖\nᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴍᴏᴅᴇ sᴇᴄᴛɪᴏɴ. ʜᴇʀᴇ, ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏsᴇ ʙᴇᴛᴡᴇᴇɴ ᴛᴡᴏ ᴍᴏᴅᴇs: ʟᴏɢɪɴ ᴍᴏᴅᴇ ᴏʀ ᴡɪᴛʜᴏᴜᴛ ʟᴏɢɪɴ ᴍᴏᴅᴇ.</blockquote>**
+**<blockquote>❖──────[『 ᴍʀꜱᴛʀᴀɴɢᴇʀ™ 』](https://i.ibb.co/DgRpQhw6/photo-2025-04-30-11-42-22-7499070258104238100.jpg)─────❖\nᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ᴍᴏᴅᴇ sᴇᴄᴛɪᴏɴ. ʜᴇʀᴇ, ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏsᴇ ʙᴇᴛᴡᴇᴇɴ ᴛᴡᴏ ᴍᴏᴅᴇs: ʟᴏɢɪɴ ᴍᴏᴅᴇ ᴏʀ ᴡɪᴛʜᴏᴜᴛ ʟᴏɢɪɴ ᴍᴏᴅᴇ.</blockquote>**
 """
 
 CUSTOM_TXT = """
 ⌬ **﹝𝐖 𝐈 𝐓 𝐇 𝐎 𝐔 𝐓 𝐋 𝐎 𝐆 𝐈 𝐍﹞**
 
-**<blockquote>❖─────[『 THE BOYS 』](https://i.ibb.co/ZRvCxd5g/STRANGER-BOY.jpg)────❖\n\nɪɴ ᴡɪᴛʜᴏᴜᴛ ʟᴏɢɪɴ ᴍᴏᴅᴇ, ʏᴏᴜ ᴄᴀɴ ᴇxᴛʀᴀᴄᴛ ᴀɴʏ ᴄᴏᴜʀsᴇ ғʀᴏᴍ ᴀɴʏ ᴀᴘᴘ's ʟɪɴᴋ, ʙᴜᴛ ʏᴏᴜ'ʟʟ ɴᴇᴇᴅ ᴀɴ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ ᴛʜᴀᴛ.</blockquote>**
+**<blockquote>❖─────[『 𝐌𝐫𝐒𝐭𝐫𝐚𝐧𝐠𝐞𝐫™ 』](https://i.ibb.co/ZRvCxd5g/STRANGER-BOY.jpg)────❖\n\nɪɴ ᴡɪᴛʜᴏᴜᴛ ʟᴏɢɪɴ ᴍᴏᴅᴇ, ʏᴏᴜ ᴄᴀɴ ᴇxᴛʀᴀᴄᴛ ᴀɴʏ ᴄᴏᴜʀsᴇ ғʀᴏᴍ ᴀɴʏ ᴀᴘᴘ's ʟɪɴᴋ, ʙᴜᴛ ʏᴏᴜ'ʟʟ ɴᴇᴇᴅ ᴀɴ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ ᴛʜᴀᴛ.</blockquote>**
 
 """
 
 MANUAL_TXT = """
 ⌬ **﹝𝐋 𝐎 𝐆 𝐈 𝐍﹞**
 
-**<blockquote>❖─────[『 SAMAY YATRI 』](https://i.ibb.co/ZRvCxd5g/STRANGER-BOY.jpg)────❖\nɪɴ ʟᴏɢɪɴ ᴍᴏᴅᴇ, ʏᴏᴜ ʜᴀᴠᴇ ʙᴇᴇɴ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴs. ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴏɴᴇ ᴡɪᴛʜ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴇxᴛʀᴀᴄᴛ ᴛʜᴇ ᴄᴏᴜʀsᴇ ʏᴏᴜ ᴡᴀɴᴛ.</blockquote>**
+**<blockquote>❖─────[『 𝐌𝐫𝐒𝐭𝐫𝐚𝐧𝐠𝐞𝐫™ 』](https://i.ibb.co/ZRvCxd5g/STRANGER-BOY.jpg)────❖\nɪɴ ʟᴏɢɪɴ ᴍᴏᴅᴇ, ʏᴏᴜ ʜᴀᴠᴇ ʙᴇᴇɴ ɢɪᴠᴇɴ ʙᴜᴛᴛᴏɴs. ᴄʜᴏᴏsᴇ ᴛʜᴇ ᴏɴᴇ ᴡɪᴛʜ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴇxᴛʀᴀᴄᴛ ᴛʜᴇ ᴄᴏᴜʀsᴇ ʏᴏᴜ ᴡᴀɴᴛ.</blockquote>**
 """
 
 
