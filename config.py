@@ -19,7 +19,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "7678862761"))
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002743508577"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002743508577")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002722789560")) 
 # -----------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://biklriplit:efaXfv2Ps9MRfner@cluster0.4hfu8zj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
