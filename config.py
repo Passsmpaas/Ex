@@ -16,10 +16,10 @@ BOT_TEXT = "❖────[ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐑𝐎🇮🇳 ]
 OWNER_ID = int(os.environ.get("OWNER_ID", "7678862761"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002757183357"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002743508577"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002825937183")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002743508577")) 
 # -----------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://biklriplit:efaXfv2Ps9MRfner@cluster0.4hfu8zj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
