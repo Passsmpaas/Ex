@@ -15,12 +15,12 @@
     },
     "BOT_TOKEN": {
       "description": "Your Telegram Bot Token",
-      "value": "8036273889:AAFdoAgGDEEwcQJ3TDq8ABqPqRuY-7oOvfk",
+      "value": "",
       "required": true
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username",
-      "value": "@SuJaLtxtoopvbot",
+      "value": "",
       "required": true
     },
     "OWNER_ID": {
@@ -35,7 +35,7 @@
     },
     "CHANNEL_ID": {
       "description": "Your channel ID",
-      "value": "",
+      "value": "-1002757183357",
       "required": true
     },
     "MONGO_URL": {
