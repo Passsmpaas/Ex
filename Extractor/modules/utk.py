@@ -633,8 +633,7 @@ async def login(app, user_id, m, all_urls, start_time, bname, batch_id, progress
             f"├─ 📦 Others: {other_count}\n"
             f"└─ 🔐 Protected: {drm_count}\n\n"
             f"🚀 <b>Extracted by</b>: @{(await app.get_me()).username}\n\n"
-            f"<code>𝐌𝐑𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑™ 𝐄𝐗𝐓𝐑𝐀𝐂𝐓𝐎𝐑</code>"
-        )
+            f"<code>𝐌𝐑𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑™ 𝐄𝐗𝐓𝐑𝐀𝐂𝐓𝐎𝐑</code>")
         
         # Send file with thumbnail
         await safe_edit_message(progress_msg, "📤 Uploading file with extracted links...")
